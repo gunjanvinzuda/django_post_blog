@@ -4,7 +4,7 @@ import sys
 
 
 def main():
-    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'my_first_django_pro.settings')
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_post_blog.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

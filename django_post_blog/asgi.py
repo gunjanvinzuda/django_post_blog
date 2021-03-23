@@ -1,5 +1,5 @@
 """
-ASGI config for my_first_django_pro project.
+ASGI config for django_post_blog project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'my_first_django_pro.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_post_blog.settings')
 
 application = get_asgi_application()
