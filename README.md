@@ -52,5 +52,5 @@ Follow these steps to run the project on your local machine.
 
 ## Technologies Used
 - Backend: Django
-- Frontend: HTML, CSS, Bootstrap (or any framework used)
+- Frontend: HTML, CSS, Bootstrap
 - Database: SQLite
